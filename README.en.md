@@ -24,7 +24,7 @@ and folder structure. After that, you can work with it as you would with any
 other private repository: clone it on your computer, write code, commit, and
 send it to GitHub.
 
-## Preparing for coding test
+## Preparing for coding
 
 1. Make sure you have an LTS version of Node.js installed on your computer.
    [Download and install](https://nodejs.org/en/) if needed.
